@@ -79,7 +79,7 @@ function App() {
       {/* {NewCompHome ? <NewCompHome /> : "no comp"} */}
 
       {/* <HomeComp/> */}
-
+<h1>AAAAADHDAE FDNMBHEFWBJKEFBKJWERFWBJKF CRCT</h1>
       <br />
 
       {/* <button onClick={handlehome}>home</button> */}
